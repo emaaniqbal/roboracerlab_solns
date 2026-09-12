@@ -1,0 +1,27 @@
+[1.734s] Invoking command in '/home/emaan/lab1_ws/build/lab1_pkg': PYTHONPATH=/home/emaan/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emaan/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/emaan/lab1_ws/build/lab1_pkg/build --no-deps symlink_data
+[2.175s] running develop
+[2.437s] running egg_info
+[2.437s] creating lab1_pkg.egg-info
+[2.437s] writing lab1_pkg.egg-info/PKG-INFO
+[2.438s] writing dependency_links to lab1_pkg.egg-info/dependency_links.txt
+[2.439s] writing entry points to lab1_pkg.egg-info/entry_points.txt
+[2.439s] writing requirements to lab1_pkg.egg-info/requires.txt
+[2.439s] writing top-level names to lab1_pkg.egg-info/top_level.txt
+[2.440s] writing manifest file 'lab1_pkg.egg-info/SOURCES.txt'
+[2.442s] reading manifest file 'lab1_pkg.egg-info/SOURCES.txt'
+[2.443s] writing manifest file 'lab1_pkg.egg-info/SOURCES.txt'
+[2.445s] running build_ext
+[2.446s] Creating /home/emaan/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages/lab1-pkg.egg-link (link to .)
+[2.447s] Installing relay script to /home/emaan/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[2.449s] Installing talker script to /home/emaan/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[2.449s] 
+[2.449s] Installed /home/emaan/lab1_ws/build/lab1_pkg
+[2.449s] running symlink_data
+[2.450s] creating /home/emaan/lab1_ws/install/lab1_pkg/share/ament_index
+[2.450s] creating /home/emaan/lab1_ws/install/lab1_pkg/share/ament_index/resource_index
+[2.451s] creating /home/emaan/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages
+[2.452s] symbolically linking /home/emaan/lab1_ws/build/lab1_pkg/resource/lab1_pkg -> /home/emaan/lab1_ws/install/lab1_pkg/share/ament_index/resource_index/packages
+[2.452s] symbolically linking /home/emaan/lab1_ws/build/lab1_pkg/package.xml -> /home/emaan/lab1_ws/install/lab1_pkg/share/lab1_pkg
+[2.452s] creating /home/emaan/lab1_ws/install/lab1_pkg/share/lab1_pkg/launch
+[2.453s] symbolically linking /home/emaan/lab1_ws/build/lab1_pkg/launch/lab1_launch.py -> /home/emaan/lab1_ws/install/lab1_pkg/share/lab1_pkg/launch
+[2.496s] Invoked command in '/home/emaan/lab1_ws/build/lab1_pkg' returned '0': PYTHONPATH=/home/emaan/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/emaan/lab1_ws/install/lab1_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/emaan/lab1_ws/build/lab1_pkg/build --no-deps symlink_data
